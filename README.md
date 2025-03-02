@@ -1,0 +1,2 @@
+# Accenture-North-America-Data-Analytics-and-Visualization-Job-Simulation
+The Accenture North America Data Analytics and Visualization Job Simulation is a hands-on program designed to provide participants with real-world experience in data analysis and visualization. This simulation immerses participants in the role of a Data Analyst at Accenture, where they work on advising a hypothetical social media client.
